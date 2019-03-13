@@ -1,10 +1,11 @@
-package array;
+package structure.array;
 
 /**
  * 描述:
  * 1)数组的插入，删除，按照下标随机访问操作；
  * 2）数组的类型是int类型
- *
+ * 3）插入时间复杂度为O(n)
+ *   根据下标随机访问时间复杂度为O(1)
  * @author YJM
  * @create 2019-03-11 15:58
  */
